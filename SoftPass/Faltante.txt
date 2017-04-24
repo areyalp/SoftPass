@@ -1,0 +1,10 @@
+-No se puede restaurar, minimizar, ver barra de inicio
+*Crear usuario tecnico para la demostracion
+-Boton de playa no seleccionable cuando la estacion es salida y viceversa
+*Colocar numero de acceso rapido en la parte superior del nombre
+X*Pedir clave para sacar X y Z
+-Colocar texto debajo de los botones indicando que debe presionar aceptar
+X*Cambiar logo de pagina web
+X*Cambiar imagenes de pagina web por texto referente a Mercabar
+X*Reporte con numero de vehiculos ingresados en el dia y dinero
+X*Reporte con numero de vehiculos por tipo y dinero por tipo

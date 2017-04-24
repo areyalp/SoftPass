@@ -1,0 +1,6 @@
+si no hay primera factura
+	obtengo el numero de la ultima factura
+	creo el Summary
+	asigno el summaryId generado
+	agrego la transaccion, el detalle de la transaccion y el pago
+	cambio summaryHasInvoice = true
